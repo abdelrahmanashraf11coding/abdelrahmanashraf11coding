@@ -22,10 +22,10 @@ I focus on **clean code**, **smooth animations**, and **great user experience**.
 A responsive restaurant website built with pure HTML & CSS.  
 Focus: simplicity, elegant colors, and full responsiveness.
 
-### 🎨 [Creative Landing Page](https://make-a-creative-landing-page.vercel.app/)
+### 🎨 [Simple Animation](https://simple-animation-dun.vercel.app/)
 A modern landing page showcasing animations and layout creativity.
 
-### 💼 [My Portfolio](https://portfoilo-sooty.vercel.app/)
+### 💼 [My Portfolio](https://abdelrahman-ashraf.vercel.app/)
 Personal portfolio website highlighting my web projects and skills.
 
 ---
@@ -36,8 +36,9 @@ HTML | CSS | JavaScript | React | Git | GitHub | Figma | Vercel | VS Code
 ---
 
 ## 🌐 Connect With Me  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ashraf-028528371)  
-- 🎨 [Behance](https://www.behance.net/abdelraashref1)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahmanashraf-dev/)  
+- 📺 [YouTube](https://www.youtube.com/channel/UCORcz39Nx3zTXpn0G9iVPGg)  
+- 👍 [Facebook](https://www.facebook.com/profile.php?id=61563815168394)  
 - 📧 **abdelrahmanashraf11coding@gmail.com**  
 
 ---
